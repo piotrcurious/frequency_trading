@@ -1,5 +1,6 @@
 # frequency_trading
 junkbox to brainstorm over frequency trading in 802.11
+Created by BingAI 
 Sure, I'll try to explain how this code works. Here is a summary:
 
 - The code imports some libraries that are useful for the task, such as numpy, pandas, matplotlib and networkx.
